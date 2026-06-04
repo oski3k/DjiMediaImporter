@@ -1,0 +1,21 @@
+{
+  "TARGET_ROOT": "E:\\Dron",
+  "VIDEO_EXTENSIONS": [
+    ".mp4",
+    ".mov",
+    ".mkv"
+  ],
+  "PHOTO_EXTENSIONS": [
+    ".jpg",
+    ".jpeg",
+    ".dng",
+    ".raw",
+    ".png"
+  ],
+  "BUFFER_SIZE_MB": 4,
+  "DEFAULT_PROJECT_NAME": "DJI",
+  "DEFAULT_DELETE_SOURCE": false,
+  "FOLDER_STRUCTURE": "category_and_ext",
+  "FILENAME_PATTERN": "{original}",
+  "DUPLICATE_ACTION": "skip_if_same_otherwise_rename"
+}
