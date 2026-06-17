@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2026-06-17 20:13:42",
+    "project_name": "rower z gory",
+    "project_dir": "E:\\Dron\\2026-06-17 - rower z gory",
+    "source_path": "F:\\DCIM",
+    "total_files": 17,
+    "total_bytes": 799196277,
+    "duration_seconds": 3,
+    "delete_source": true,
+    "dry_run": false,
+    "tags": [],
+    "notes": ""
+  }
+]

@@ -14,8 +14,10 @@
   ],
   "BUFFER_SIZE_MB": 4,
   "DEFAULT_PROJECT_NAME": "DJI",
-  "DEFAULT_DELETE_SOURCE": false,
+  "DEFAULT_DELETE_SOURCE": true,
   "FOLDER_STRUCTURE": "category_and_ext",
   "FILENAME_PATTERN": "{original}",
-  "DUPLICATE_ACTION": "skip_if_same_otherwise_rename"
+  "DUPLICATE_ACTION": "skip_if_same_otherwise_rename",
+  "LANGUAGE": "pl",
+  "THEME": "ocean"
 }
